@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+#quiz{
+    font-size: 75px;
+}
+.question{
+    font-size: 50px;
+}
+button{
+    font-size: 20px;
+    font-family: 'Harry Potter', sans-serif;
+    background-color: pink;
+}
+#sarah{
+    color: rgb(81, 211, 211);
+}
+footer{
+    background-color: blueviolet;
+}
